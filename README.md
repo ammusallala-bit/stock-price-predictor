@@ -1,2 +1,11 @@
-# stock-price-predictor
-A machine learning project to predict stock prices using historical data
+# Spam Email Classifier
+
+This project detects spam emails using Machine Learning.
+
+## Technologies
+- Python
+- Scikit-learn
+- NLP
+
+## Run
+python app.py
